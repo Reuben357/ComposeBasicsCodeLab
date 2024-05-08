@@ -1,8 +1,8 @@
 # Compose Basics Code Lab
-### Basics CodeLab is an app that illustrates the understanding of reusing composables, creation of columns and rows, implementation of State and State hosting, Creating a performant lazy list, persisting state as well as animation of lists and styling and theming
+### Basics CodeLab is an app that illustrates the understanding of reusing composable, creation of columns and rows, implementation of State and State hosting, Creating a performant lazy list, persisting state as well as animation of lists and styling and theming
 
 ## Features 
-* Click a contiue button from the Onboarding page
+* Click a continue button from the Onboarding page
 * View the lazy column of expandable cards
 
 ## Get Started 
@@ -20,7 +20,7 @@
 5. Usage
 ### The app presents a user interface with:
   * A "Continue" Button on the Onboarding screen with a welcome to basics code lab text above it 
-  * A Lazy column of expandable greeting card with animation 
+  * A Lazy column of expandable greeting cards with animation 
 
 6. Contributing
    ### Feel free to contribute to this project by:
